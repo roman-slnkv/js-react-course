@@ -83,6 +83,6 @@ function showMyDB(hidden) {
 
 // showMyDB(personalMovieDB.privat);
 
-console.log(personalMovieDB)
+console.log(personalMovieDB);
 
 // Код возьмите из предыдущего домашнего задания
